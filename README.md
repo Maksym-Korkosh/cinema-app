@@ -1,5 +1,5 @@
 # Cinema application
-*This application is a simplified version of the cinema service. It allows user registration, creating shopping cart, ordering tickets and scrolling necessary information for administrators *
+*This application is a simplified version of the cinema service. It allows user registration, creating shopping cart, ordering tickets and scrolling necessary information for administrators*
 ## :large_orange_diamond: Project description
 ### Features:
 - Registration, authentication and authorization;<br />
